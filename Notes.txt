@@ -1,2 +1,9 @@
+Ver 1.0
 Carnegie Stage 20: 210416_QC.ipynb and 210813_analysis.ipynb
 Carnegie Stage 23: 210422_QC.ipynb and 210816_analysis.ipynb
+
+Ver 1.1
+update: 2021/12/21
+Carnegie Stage 20: 211221_CS20_QC.ipynb and 211221_CS20_analysis.ipynb
+Carnegie Stage 23: 211221_CS23_QC.ipynb and 211221_CS23_analysis.ipynb
+Add analysis for transcriptional factors of Dorothea level C~D
